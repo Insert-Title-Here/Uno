@@ -4,9 +4,12 @@
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">Menu Screen</string>
     <string name="second_fragment_label">GamePlay</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-
+    <string name="button">Start Playing</string>
+    <string name="previousButton">Go Back</string>
     <string name="menuText">Menu Screen Thing</string>
+    <string name="leaderboardButton">Go to Leaderboard</string>
+    <string name="Leaderboard">Leaderboard</string>
+
+
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
